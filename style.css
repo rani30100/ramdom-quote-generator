@@ -1,0 +1,35 @@
+body{
+   background-color: rgb(162, 173, 96);
+}
+.formulaire{
+   text-align: center;
+   width: 100VW;
+   height: 500px;
+   background-color :var(--main-bg-color);
+   margin-top: 100px;
+}
+.input{
+   padding: 8px;
+   
+
+}
+.btn{
+   margin-top: 5px;
+   margin-right: 8px;
+   font-size: 12px;
+   padding: 10px;
+}
+
+.btn:hover{
+   background-color: green ;
+}
+
+
+h3{
+   text-decoration: underline;
+}
+
+element {
+   --main-bg-color: rgb(162, 173, 96);
+ }
+ 
